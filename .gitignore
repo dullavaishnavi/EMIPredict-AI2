@@ -1,0 +1,14 @@
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.venv/
+venv/
+env/
+.env
+.DS_Store
+mlruns/
+mlflow.db
+*.sqlite
+*.log
+data/*.csv
+.streamlit/secrets.toml
